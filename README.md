@@ -1,6 +1,7 @@
 # xyloo
 
-A new Flutter project.
+A new Flutter project with audio sample
+
 
 ## Getting Started
 
